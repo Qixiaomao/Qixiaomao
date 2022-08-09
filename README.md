@@ -8,7 +8,7 @@
 ### 自学项目 🔭
 * [必须掌握的数据结构与算法](https://github.com/Qixiaomao/structure_learn1)：根据重温的《大话数据结构》将有关的数据结构与算法都用python实现一遍
 * [前端学习的50个小项目](https://github.com/Qixiaomao/50projects50days):学习前端之后给自己练习的50个小项目
-* [Sql注入搭建靶场用](https://github.com/Qixiaomao/sqli-labs)
+* [Sql注入搭建靶场用](https://github.com/Qixiaomao/sqli-labs):用于自己研究sql注入搭建的靶场源码
 
 ### 项目 😄
 * [**毕业设计-基于Python的温湿度平台**](https://github.com/Qixiaomao/proj19) :设计一个完整的物联网平台
