@@ -21,7 +21,7 @@
 
 ## fork别人的项目 🔭
 ### 通用简历
-*[找工作用](https://github.com/Qixiaomao/ResumeSample)
+* [找工作用](https://github.com/Qixiaomao/ResumeSample)
 ### obsidian脚本
 * [obsidian一键开启脚本](https://github.com/Qixiaomao/myScripts)
 ### python学习 
