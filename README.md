@@ -1,7 +1,6 @@
 <h1 align='center'>Hi,I'm 7👋</h1> 
 
-
-[<src href='https://img.shields.io/badge/python-3.9-orange'>](https://img.shields.io/badge/-python3.10-orange)
+![python3.10](https://img.shields.io/badge/-python3.10-orange)  ![django](https://img.shields.io/badge/-django-blue) ![python](https://img.shields.io/badge/python-3.10-yellowgreen) ![html](https://img.shields.io/badge/-html-brightgreen) ![css](https://img.shields.io/badge/-css-yellow) ![javascript](https://img.shields.io/badge/-javascript-orange) ![数据分析](https://img.shields.io/badge/-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-orange) ![leetcode](https://img.shields.io/badge/-leetcode-orange)
 
 ## 我的开源项目 🌱
 
@@ -55,7 +54,7 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
-
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qixiaomao&show_icons=true&theme=radical)
 
 
 
