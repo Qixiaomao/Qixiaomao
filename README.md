@@ -5,9 +5,19 @@
 </p>
 
 
-<h3>👯7'titles</h3>
-![python3.10](https://img.shields.io/badge/-python3.10-orange)  ![django](https://img.shields.io/badge/-django-blue) ![python](https://img.shields.io/badge/python-3.10-yellowgreen) ![html](https://img.shields.io/badge/-html-brightgreen) ![css](https://img.shields.io/badge/-css-yellow) ![javascript](https://img.shields.io/badge/-javascript-orange) ![数据分析](https://img.shields.io/badge/-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-blue) ![leetcode](https://img.shields.io/badge/-leetcode-orange)
-![http](https://img.shields.io/badge/-http-red)  ![https](https://img.shields.io/badge/-https-blue) ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-green)
+### 👯7'titles
+
+ ![python3.10](https://img.shields.io/badge/-python3.10-orange)  
+ ![django](https://img.shields.io/badge/-django-blue) 
+ ![python](https://img.shields.io/badge/python-3.10-yellowgreen) 
+ ![html](https://img.shields.io/badge/-html-brightgreen) 
+ ![css](https://img.shields.io/badge/-css-yellow) 
+ ![javascript](https://img.shields.io/badge/-javascript-orange) 
+ ![数据分析](https://img.shields.io/badge/-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-blue) 
+ ![leetcode](https://img.shields.io/badge/-leetcode-orange)
+ ![http](https://img.shields.io/badge/-http-red)  
+ ![https](https://img.shields.io/badge/-https-blue) 
+ ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-green)
 
 ## 我的开源项目 🌱
 
@@ -38,6 +48,7 @@
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qixiaomao&show_icons=true&theme=radical)
+
 
 
 
