@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align='center'>Hi,I'm 7👋</h1> 
+
+
+[<src href='https://img.shields.io/badge/python-3.9-orange'>](https://img.shields.io/badge/-python3.10-orange)
 
 ## 我的开源项目 🌱
 
@@ -52,7 +55,6 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
-
 
 
 
