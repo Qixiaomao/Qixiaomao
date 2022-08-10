@@ -23,7 +23,6 @@
 * [外星人入侵](https://github.com/Qixiaomao/py_pygame) 😄
 
 ## fork别人的项目 🔭
-### 通用简历
 * [找工作用](https://github.com/Qixiaomao/ResumeSample)    
 * [obsidian一键开启脚本](https://github.com/Qixiaomao/myScripts)
 * [Python-100-Days](https://github.com/Qixiaomao/Python-100-Days) 
