@@ -1,6 +1,7 @@
 <h1 align='center'>Hi,I'm 7👋</h1> 
 
 ![python3.10](https://img.shields.io/badge/-python3.10-orange)  ![django](https://img.shields.io/badge/-django-blue) ![python](https://img.shields.io/badge/python-3.10-yellowgreen) ![html](https://img.shields.io/badge/-html-brightgreen) ![css](https://img.shields.io/badge/-css-yellow) ![javascript](https://img.shields.io/badge/-javascript-orange) ![数据分析](https://img.shields.io/badge/-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-blue) ![leetcode](https://img.shields.io/badge/-leetcode-orange)
+![http](https://img.shields.io/badge/-http-red)  ![https](https://img.shields.io/badge/-https-blue) ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-green)
 
 ## 我的开源项目 🌱
 
@@ -23,10 +24,10 @@
 * [外星人入侵](https://github.com/Qixiaomao/py_pygame) 😄
 
 ## fork别人的项目 🔭
-* [找工作用](https://github.com/Qixiaomao/ResumeSample)    
-* [obsidian一键开启脚本](https://github.com/Qixiaomao/myScripts)
-* [Python-100-Days](https://github.com/Qixiaomao/Python-100-Days) 
-* [数据分析书籍](https://github.com/Qixiaomao/pyda-2e-zh)                        
+* [找工作用](https://github.com/Qixiaomao/ResumeSample)：简历模板   
+* [obsidian一键开启脚本](https://github.com/Qixiaomao/myScripts)；obsidian的相关插件一键部署
+* [Python-100-Days](https://github.com/Qixiaomao/Python-100-Days) ：用于python自学的项目
+* [数据分析书籍](https://github.com/Qixiaomao/pyda-2e-zh) ：数据分析需要的资料                        
 ```                             \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
