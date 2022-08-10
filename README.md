@@ -24,14 +24,12 @@
 
 ## fork别人的项目 🔭
 ### 通用简历
-* [找工作用](https://github.com/Qixiaomao/ResumeSample)
-### obsidian脚本
-* [obsidian一键开启脚本](https://github.com/Qixiaomao/myScripts)
-### python学习 
-* [Python-100-Days](https://github.com/Qixiaomao/Python-100-Days)
+* [找工作用](https://github.com/Qixiaomao/ResumeSample)    * [obsidian一键开启脚本](https://github.com/Qixiaomao/myScripts)
 
-### 数据分析
-* [数据分析书籍](https://github.com/Qixiaomao/pyda-2e-zh)
+* [Python-100-Days](https://github.com/Qixiaomao/Python-100-Days)  * [数据分析书籍](https://github.com/Qixiaomao/pyda-2e-zh)
+
+
+
 
 
 ```                             \\\\\\\
