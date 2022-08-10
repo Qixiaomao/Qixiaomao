@@ -24,14 +24,10 @@
 
 ## fork别人的项目 🔭
 ### 通用简历
-* [找工作用](https://github.com/Qixiaomao/ResumeSample)    * [obsidian一键开启脚本](https://github.com/Qixiaomao/myScripts)
-
-* [Python-100-Days](https://github.com/Qixiaomao/Python-100-Days)  * [数据分析书籍](https://github.com/Qixiaomao/pyda-2e-zh)
-
-
-
-
-
+* [找工作用](https://github.com/Qixiaomao/ResumeSample)    
+* [obsidian一键开启脚本](https://github.com/Qixiaomao/myScripts)
+* [Python-100-Days](https://github.com/Qixiaomao/Python-100-Days) 
+* [数据分析书籍](https://github.com/Qixiaomao/pyda-2e-zh)                        
 ```                             \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -52,6 +48,8 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
+
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qixiaomao&show_icons=true&theme=radical)
 
 
