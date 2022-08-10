@@ -1,11 +1,9 @@
-<h2 align='center'>Hi,I'm 7👋</h2> 
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="50%">
 </p>
 
 
-### 👯7'titles
+<h2 align='center'>Hi,I'm 7👋</h2> 
 
  ![python3.10](https://img.shields.io/badge/-python3.10-orange)  
  ![django](https://img.shields.io/badge/-django-blue) 
