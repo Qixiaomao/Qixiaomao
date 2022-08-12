@@ -29,6 +29,7 @@
 
 ### 项目 😄
 * [cimp开发](https://github.com/Qixiaomao/cimp) ： 基于django框架开发的学生信息管理系统
+* [Python-pyspider](https://github.com/Qixiaomao/Python-pyspider) :爬取全国新冠肺炎数据
 * [毕业设计-基于Python的温湿度平台](https://github.com/Qixiaomao/proj19) :设计一个完整的物联网平台
 
 ### 自己开发工具 📫
