@@ -26,6 +26,8 @@
 * [必须掌握的数据结构与算法](https://github.com/Qixiaomao/structure_learn1)：根据重温的《大话数据结构》将有关的数据结构与算法都用python实现一遍
 * [前端学习的50个小项目](https://github.com/Qixiaomao/50projects50days):学习前端之后给自己练习的50个小项目
 * [Sql注入搭建靶场用](https://github.com/Qixiaomao/sqli-labs):用于自己研究sql注入搭建的靶场源码
+* [计算机网络]()：loding ...
+* [计算机操作系统]() :loding ...
 
 ### 项目 😄
 * [cimp开发](https://github.com/Qixiaomao/cimp) ： 基于django框架开发的学生信息管理系统
