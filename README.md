@@ -10,6 +10,7 @@
 [![](https://img.shields.io/badge/Linux-Centos-2376bc?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Golang-f05032?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/travis/wiki/https://wiki.freebuf.com/?color=blue&label=wiki&logoColor=blue&style=flat-square)](https://wiki.freebuf.com/)
  ![python3.10](https://img.shields.io/badge/-python3.10-orange)  
  ![django](https://img.shields.io/badge/-django-blue) 
  ![python](https://img.shields.io/badge/python-3.10-yellowgreen) 
