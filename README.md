@@ -35,7 +35,7 @@
 * [学习在线](https://github.com/Qixiaomao/h5_learn) ：学习前端页面知识的项目
 * [计算机网络]()：loding ...
 * [计算机操作系统]() :loding ...
-* [python基础]()：
+* [python基础](https://github.com/Qixiaomao/pythonlearn)：总结记录一些自己学习python基础的笔记
 
 ### 项目 😄
 * [cimp开发](https://github.com/Qixiaomao/cimp) ： 基于django框架开发的学生信息管理系统
