@@ -38,6 +38,7 @@
 * [python基础](https://github.com/Qixiaomao/pythonlearn)：总结记录一些自己学习python基础的笔记
 
 ### 项目 😄
+* [51stc单片机研究](https://github.com/Qixiaomao/51stc) : 建立自己学习单片机的笔记
 * [cimp开发](https://github.com/Qixiaomao/cimp) ： 基于django框架开发的学生信息管理系统
 * [Python-pyspider](https://github.com/Qixiaomao/Python-pyspider) :爬取全国新冠肺炎数据
 * [毕业设计-基于Python的温湿度平台](https://github.com/Qixiaomao/proj19) :设计一个完整的物联网平台
