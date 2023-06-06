@@ -42,7 +42,7 @@
 * [cimp开发](https://github.com/Qixiaomao/cimp) ： 基于django框架开发的学生信息管理系统
 * [Python-pyspider](https://github.com/Qixiaomao/Python-pyspider) :爬取全国新冠肺炎数据
 * [毕业设计-基于Python的温湿度平台](https://github.com/Qixiaomao/proj19) :设计一个完整的物联网平台
-* [c语言小程序]():学生管理系统
+* [c语言小程序](https://github.com/Qixiaomao/StudentManagement):学生管理系统
 
 ### 自己开发工具 📫
 * [Stealth](https://github.com/Qixiaomao/Stealth):基于python3编写的信息扫描工具
