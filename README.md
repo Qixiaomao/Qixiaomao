@@ -22,6 +22,7 @@
  ![http](https://img.shields.io/badge/-http-red)  
  ![https](https://img.shields.io/badge/-https-blue) 
  ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-green)
+  ![Esp32](https://img.shields.io/badge/-TCP%2FIP-green)
 
 ## 我的开源项目 🌱
 
@@ -38,6 +39,7 @@
 * [python基础](https://github.com/Qixiaomao/pythonlearn)：总结记录一些自己学习python基础的笔记
 
 ### 项目 😄
+* [桌面屏幕](https://github.com/Qixiaomao/51stc) : 基于ESP32开发的桌面项目
 * [51stc单片机研究](https://github.com/Qixiaomao/51stc) : 建立自己学习单片机的笔记
 * [cimp开发](https://github.com/Qixiaomao/cimp) ： 基于django框架开发的学生信息管理系统
 * [Python-pyspider](https://github.com/Qixiaomao/Python-pyspider) :爬取全国新冠肺炎数据
