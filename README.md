@@ -26,19 +26,8 @@
 
 ## 我的开源项目 🌱
 
-### leetcode刷题 
-* [leetcode刷题顺序](https://github.com/Qixiaomao/leetcode-master)：刷题leetcode路径
-
-### 自学项目 🔭
-* [必须掌握的数据结构与算法](https://github.com/Qixiaomao/structure_learn1)：根据重温的《大话数据结构》将有关的数据结构与算法都用python实现一遍
-* [前端学习的50个小项目](https://github.com/Qixiaomao/50projects50days):学习前端之后给自己练习的50个小项目
-* [Sql注入搭建靶场用](https://github.com/Qixiaomao/sqli-labs):用于自己研究sql注入搭建的靶场源码
-* [学习在线](https://github.com/Qixiaomao/h5_learn) ：学习前端页面知识的项目
-* [计算机网络]()：loding ...
-* [计算机操作系统]() :loding ...
-* [python基础](https://github.com/Qixiaomao/pythonlearn)：总结记录一些自己学习python基础的笔记
-
 ### 项目 😄
+* [LLMs-Generate-text-seven]():构建生成文本大模型
 * [桌面屏幕](https://github.com/Qixiaomao/Esp32-Desktop) : 基于ESP32开发的桌面项目
 * [51stc单片机研究](https://github.com/Qixiaomao/51stc) : 建立自己学习单片机的笔记
 * [cimp开发](https://github.com/Qixiaomao/cimp) ： 基于django框架开发的学生信息管理系统
