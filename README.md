@@ -27,7 +27,7 @@
 ## 我的开源项目 🌱
 
 ### 项目 😄
-* [LLMs-Generate-text-seven]():构建生成文本大模型
+* [LLMs-Generate-text-seven](https://github.com/Qixiaomao/LLMs-Generate-text-seven):构建生成文本大模型
 * [桌面屏幕](https://github.com/Qixiaomao/Esp32-Desktop) : 基于ESP32开发的桌面项目
 * [51stc单片机研究](https://github.com/Qixiaomao/51stc) : 建立自己学习单片机的笔记
 * [cimp开发](https://github.com/Qixiaomao/cimp) ： 基于django框架开发的学生信息管理系统
