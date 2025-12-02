@@ -42,16 +42,14 @@
 ### 研究的小游戏 🌱
 * [外星人入侵](https://github.com/Qixiaomao/py_pygame) 😄
 
-## fork别人的项目 🔭
-* ⚡ [找工作用](https://github.com/Qixiaomao/ResumeSample)：简历模板   
+## fork别人的项目 🔭   
 * ⚡ [obsidian一键开启脚本](https://github.com/Qixiaomao/myScripts)；obsidian的相关插件一键部署
 * ⚡ [Python-100-Days](https://github.com/Qixiaomao/Python-100-Days) ：用于python自学的项目
 * ⚡ [数据分析书籍](https://github.com/Qixiaomao/pyda-2e-zh) ：数据分析需要的资料                        
 
 
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qixiaomao&show_icons=true&theme=radical)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qixiaomao&layout=demo)](https://github.com/Qixiaomao/github-readme-stats) -->
+
 
 
 
