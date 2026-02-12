@@ -31,7 +31,7 @@
 * [LLMs-Generate-text-seven](https://github.com/Qixiaomao/LLMs-Generate-text-seven):Building Generative Text Large Models
 * [Desktop Screen](https://github.com/Qixiaomao/Esp32-Desktop) : Desktop Project Developed Using ESP32
 * [51stc Microcontroller Research](https://github.com/Qixiaomao/51stc) : Creating Your Own Notes for Learning Microcontrollers
-* [cimp开发](https://github.com/Qixiaomao/cimp) ： Student Information Management System Developed Using the Django Framework
+* [Cimp Development](https://github.com/Qixiaomao/cimp) ： Student Information Management System Developed Using the Django Framework
 * [Python-pyspider](https://github.com/Qixiaomao/Python-pyspider) : Crawling nationwide COVID-19 data
 * [Graduation Project - Python-Based Temperature and Humidity Monitoring Platform](https://github.com/Qixiaomao/proj19) :Design a complete IoT temperature and humidity monitoring platform
 * [C Program](https://github.com/Qixiaomao/StudentManagement):Student Management System
