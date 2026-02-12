@@ -17,7 +17,7 @@
  ![html](https://img.shields.io/badge/-html-brightgreen) 
  ![css](https://img.shields.io/badge/-css-yellow) 
  ![javascript](https://img.shields.io/badge/-javascript-orange) 
- ![数据分析](https://img.shields.io/badge/-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-blue) 
+ ![Data Analysis](https://img.shields.io/badge/-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-blue) 
  ![leetcode](https://img.shields.io/badge/-leetcode-orange)
  ![http](https://img.shields.io/badge/-http-red)  
  ![https](https://img.shields.io/badge/-https-blue) 
