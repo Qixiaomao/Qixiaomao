@@ -24,28 +24,28 @@
  ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-green)
  
 
-## 我的开源项目 🌱
 
-### 项目 😄
-* [Video-caption-algorithm](https://github.com/Qixiaomao/video-caption-algorithm):视频描述相关
-* [LLMs-Generate-text-seven](https://github.com/Qixiaomao/LLMs-Generate-text-seven):构建生成文本大模型
-* [桌面屏幕](https://github.com/Qixiaomao/Esp32-Desktop) : 基于ESP32开发的桌面项目
-* [51stc单片机研究](https://github.com/Qixiaomao/51stc) : 建立自己学习单片机的笔记
-* [cimp开发](https://github.com/Qixiaomao/cimp) ： 基于django框架开发的学生信息管理系统
-* [Python-pyspider](https://github.com/Qixiaomao/Python-pyspider) :爬取全国新冠肺炎数据
-* [毕业设计-基于Python的温湿度平台](https://github.com/Qixiaomao/proj19) :设计一个完整的物联网平台
-* [c语言小程序](https://github.com/Qixiaomao/StudentManagement):学生管理系统
 
-### 自己开发工具 📫
-* [Stealth](https://github.com/Qixiaomao/Stealth):基于python3编写的信息扫描工具
+## My Projects 🌱
+* [Video-caption-algorithm](https://github.com/Qixiaomao/video-caption-algorithm):Video captions related
+* [LLMs-Generate-text-seven](https://github.com/Qixiaomao/LLMs-Generate-text-seven):Building Generative Text Large Models
+* [Desktop Screen](https://github.com/Qixiaomao/Esp32-Desktop) : Desktop Project Developed Using ESP32
+* [51stc Microcontroller Research](https://github.com/Qixiaomao/51stc) : Creating Your Own Notes for Learning Microcontrollers
+* [cimp开发](https://github.com/Qixiaomao/cimp) ： Student Information Management System Developed Using the Django Framework
+* [Python-pyspider](https://github.com/Qixiaomao/Python-pyspider) : Crawling nationwide COVID-19 data
+* [Graduation Project - Python-Based Temperature and Humidity Monitoring Platform](https://github.com/Qixiaomao/proj19) :Design a complete IoT temperature and humidity monitoring platform
+* [C Program](https://github.com/Qixiaomao/StudentManagement):Student Management System
 
-### 研究的小游戏 🌱
-* [外星人入侵](https://github.com/Qixiaomao/py_pygame) 😄
+### Tools 📫
+* [Stealth](https://github.com/Qixiaomao/Stealth):Information scanning tool developed using Python 3
 
-## fork别人的项目 🔭   
-* ⚡ [obsidian一键开启脚本](https://github.com/Qixiaomao/myScripts)；obsidian的相关插件一键部署
-* ⚡ [Python-100-Days](https://github.com/Qixiaomao/Python-100-Days) ：用于python自学的项目
-* ⚡ [数据分析书籍](https://github.com/Qixiaomao/pyda-2e-zh) ：数据分析需要的资料                        
+### Games 🌱
+* [Alien Invasion](https://github.com/Qixiaomao/py_pygame) 😄
+
+## fork others  🔭   
+* ⚡ [obsidian one-click](https://github.com/Qixiaomao/myScripts):One-click deployment of Obsidian-related plugins
+* ⚡ [Python-100-Days](https://github.com/Qixiaomao/Python-100-Days) ：Projects for Python Self-Study
+* ⚡ [Data Analysis Books](https://github.com/Qixiaomao/pyda-2e-zh) ：Data required for analysis                        
 
 
 
