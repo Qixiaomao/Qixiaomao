@@ -36,7 +36,7 @@
 * [C Program](https://github.com/Qixiaomao/StudentManagement):Student Management System
 
 
-### Tools 📫
+### Currently learning 🌱
 * [Stealth](https://github.com/Qixiaomao/Stealth):Information scanning tool developed using Python 3
 
 
