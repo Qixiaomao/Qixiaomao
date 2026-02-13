@@ -35,16 +35,13 @@
 * [Graduation Project - Python-Based Temperature and Humidity Monitoring Platform](https://github.com/Qixiaomao/proj19) :Design a complete IoT temperature and humidity monitoring platform
 * [C Program](https://github.com/Qixiaomao/StudentManagement):Student Management System
 
+
 ### Tools 📫
 * [Stealth](https://github.com/Qixiaomao/Stealth):Information scanning tool developed using Python 3
 
-### Games 🌱
-* [Alien Invasion](https://github.com/Qixiaomao/py_pygame) 😄
 
-## fork others  🔭   
-* ⚡ [obsidian one-click](https://github.com/Qixiaomao/myScripts):One-click deployment of Obsidian-related plugins
-* ⚡ [Python-100-Days](https://github.com/Qixiaomao/Python-100-Days) ：Projects for Python Self-Study
-* ⚡ [Data Analysis Books](https://github.com/Qixiaomao/pyda-2e-zh) ：Data required for analysis                        
+
+
 
 
 
