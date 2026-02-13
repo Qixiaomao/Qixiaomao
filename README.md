@@ -25,7 +25,7 @@
 
 
 
-## My Projects 🌱
+## My Projects 
 * [Video-caption-algorithm](https://github.com/Qixiaomao/video-caption-algorithm):Video captions related
 * [LLMs-Generate-text-seven](https://github.com/Qixiaomao/LLMs-Generate-text-seven):Building Generative Text Large Models
 * [Desktop Screen](https://github.com/Qixiaomao/Esp32-Desktop) : Desktop Project Developed Using ESP32
@@ -36,8 +36,8 @@
 * [C Program](https://github.com/Qixiaomao/StudentManagement):Student Management System
 
 
-### Currently learning 🌱
-* [Stealth](https://github.com/Qixiaomao/Stealth):Information scanning tool developed using Python 3
+## Currently learning 🌱
+* [System Programming Journey](https://github.com/Qixiaomao/System-Programming-Journey): From system perspective, analyzing computers.
 
 
 
