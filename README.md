@@ -29,7 +29,7 @@
 * [Video-caption-algorithm](https://github.com/Qixiaomao/video-caption-algorithm):Video captions related
 * [LLMs-Generate-text-seven](https://github.com/Qixiaomao/LLMs-Generate-text-seven):Building Generative Text Large Models
 * [Desktop Screen](https://github.com/Qixiaomao/Esp32-Desktop) : Desktop Project Developed Using ESP32
-* [51stc Microcontroller Research](https://github.com/Qixiaomao/51stc) : Creating Your Own Notes for Learning Microcontrollers
+* [Github Project Analyzer](https://github.com/Qixiaomao/GitHub-Project-Analyzer) : Analysis github project
 * [Cimp Development](https://github.com/Qixiaomao/cimp) ： Student Information Management System Developed Using the Django Framework
 * [Python-pyspider](https://github.com/Qixiaomao/Python-pyspider) : Crawling nationwide COVID-19 data
 * [Graduation Project - Python-Based Temperature and Humidity Monitoring Platform](https://github.com/Qixiaomao/proj19) :Design a complete IoT temperature and humidity monitoring platform
