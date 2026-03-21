@@ -17,10 +17,7 @@
  ![html](https://img.shields.io/badge/-html-brightgreen) 
  ![css](https://img.shields.io/badge/-css-yellow) 
  ![javascript](https://img.shields.io/badge/-javascript-orange) 
- ![leetcode](https://img.shields.io/badge/-leetcode-orange)
- ![http](https://img.shields.io/badge/-http-red)  
- ![https](https://img.shields.io/badge/-https-blue) 
- ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-green)
+
  
 
 
@@ -29,6 +26,7 @@
 * [Video-caption-algorithm](https://github.com/Qixiaomao/video-caption-algorithm):Video captions related
 * [LLMs-Generate-text-seven](https://github.com/Qixiaomao/LLMs-Generate-text-seven):Building Generative Text Large Models
 * [Github Project Analyzer](https://github.com/Qixiaomao/GitHub-Project-Analyzer) : Analysis github project
+* [CUDA-GEMM-Optimization-Journey](https://github.com/Qixiaomao/CUDA-GEMM-Optimization-Journey) : hands on cuda optimization journey
 
 
 
